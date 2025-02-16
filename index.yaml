@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  api-names:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-16T16:49:42.241557621-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 5c8472a784a9757b52da7a6259b9b8b126638f1e359e93123888608b7177a999
+    name: api-names
+    type: application
+    urls:
+    - https://github.com/JuanMiguelD/api-names_chart/api-names-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-02-16T16:49:42.240941399-05:00"
