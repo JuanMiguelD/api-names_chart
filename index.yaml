@@ -2,8 +2,28 @@ apiVersion: v1
 entries:
   api-names:
   - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-02-24T01:53:10.837153693Z"
+    description: A Helm chart for Kubernetes
+    digest: 6acf33b580311b1afc30bb043a6fa68a252f4b5d22c629f39dc6d2237cf0d1bb
+    name: api-names
+    type: application
+    urls:
+    - api-names-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2025-02-24T01:53:10.83683826Z"
+    description: A Helm chart for Kubernetes
+    digest: a4e0f101c5ab89e7d4be381935fef03a736e56643236e18a825006f2e20d05ed
+    name: api-names
+    type: application
+    urls:
+    - api-names-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     appVersion: 0.0.3
-    created: "2025-02-24T01:39:32.03645697Z"
+    created: "2025-02-24T01:53:10.836551731Z"
     description: A Helm chart for Kubernetes
     digest: c93ab23868d1400ebfd1af59699b4b6176a5a2f40dda5d23a72bb952f381c981
     name: api-names
@@ -13,7 +33,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2025-02-24T01:39:32.036160353Z"
+    created: "2025-02-24T01:53:10.836252739Z"
     description: A Helm chart for Kubernetes
     digest: 7ffea7c70336a507b1806e9bc12f4eefb51753b0be31e5c276e5fffcad23546e
     name: api-names
@@ -21,4 +41,4 @@ entries:
     urls:
     - api-names-0.0.2.tgz
     version: 0.0.2
-generated: "2025-02-24T01:39:32.035681405Z"
+generated: "2025-02-24T01:53:10.83572872Z"
