@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   api-names:
   - apiVersion: v2
+    appVersion: 0.0.8
+    created: "2025-02-26T02:10:27.195469863Z"
+    description: A Helm chart for Kubernetes
+    digest: 21d489a287d1f68a594fb51cc348a04e1867b1bc4cef92d5f1073ef99a6f206b
+    name: api-names
+    type: application
+    urls:
+    - api-names-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
     appVersion: 0.0.7
-    created: "2025-02-26T02:04:49.224858676Z"
+    created: "2025-02-26T02:10:27.195191943Z"
     description: A Helm chart for Kubernetes
     digest: f167ed82938e01be42ca8e67bece57e286731f5803c85a473de4fe8946037eb4
     name: api-names
@@ -13,7 +23,7 @@ entries:
     version: 0.0.7
   - apiVersion: v2
     appVersion: 0.0.6
-    created: "2025-02-26T02:04:49.224569167Z"
+    created: "2025-02-26T02:10:27.194878366Z"
     description: A Helm chart for Kubernetes
     digest: 9d558f1a2f942e5043fbf8a3524cc489c0972df14c45d622293f6654be2a55b5
     name: api-names
@@ -23,7 +33,7 @@ entries:
     version: 0.0.6
   - apiVersion: v2
     appVersion: 0.0.5
-    created: "2025-02-26T02:04:49.224263117Z"
+    created: "2025-02-26T02:10:27.194588494Z"
     description: A Helm chart for Kubernetes
     digest: 17c4c6dafa593938218505c908e8898ee7c9e83d8ef3b2399f1c9b273a9a86a2
     name: api-names
@@ -33,7 +43,7 @@ entries:
     version: 0.0.5
   - apiVersion: v2
     appVersion: 0.0.4
-    created: "2025-02-26T02:04:49.223967908Z"
+    created: "2025-02-26T02:10:27.194285046Z"
     description: A Helm chart for Kubernetes
     digest: a4e0f101c5ab89e7d4be381935fef03a736e56643236e18a825006f2e20d05ed
     name: api-names
@@ -43,7 +53,7 @@ entries:
     version: 0.0.4
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2025-02-26T02:04:49.223643844Z"
+    created: "2025-02-26T02:10:27.193962001Z"
     description: A Helm chart for Kubernetes
     digest: c93ab23868d1400ebfd1af59699b4b6176a5a2f40dda5d23a72bb952f381c981
     name: api-names
@@ -53,7 +63,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2025-02-26T02:04:49.223295336Z"
+    created: "2025-02-26T02:10:27.193653564Z"
     description: A Helm chart for Kubernetes
     digest: 7ffea7c70336a507b1806e9bc12f4eefb51753b0be31e5c276e5fffcad23546e
     name: api-names
@@ -61,4 +71,4 @@ entries:
     urls:
     - api-names-0.0.2.tgz
     version: 0.0.2
-generated: "2025-02-26T02:04:49.222817055Z"
+generated: "2025-02-26T02:10:27.193192952Z"
